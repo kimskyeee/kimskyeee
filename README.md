@@ -15,6 +15,17 @@
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+## 🚀 Projects Summary
+✅ 프로젝트는 소개 아래의 pinned 에서도 확인하실 수 있습니다!
+
+01 올라락 깨구락
+
+02 올라락 깨구락
+
+03 올라락 깨구락
+
+04 올라락 깨구락
+
 
 ## 🏆 Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimskye)](https://solved.ac/kimskye)
