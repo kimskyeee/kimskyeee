@@ -1,5 +1,7 @@
 ## 👋 Hi there! I'm KimSkyeee!
-👷🏻‍♀️ 어쩌고 저쩌고
+👷🏻‍♀️ 건축학과 출신으로, **설계**와 **구조적 직관**이 무엇보다 중요하다는 것을 몸소 배웠습니다.
+건축이 사람들에게 공간 경험을 설계하는 일이라면 게임 개발 역시 **플레이어에게 새로운 경험을 설계**하는 일이라고 생각합니다.
+이 같은 맥락에서 **설계적 사고와 직관력**은 제가 게임 개발자로 성장하는 데 강점이 될 수 있다고 믿습니다.
 
 ## 🛠 Skills 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)  ![Blueprint](https://img.shields.io/badge/Blueprint-2E72C0?style=for-the-badge&logo=unrealengine&logoColor=white)  
