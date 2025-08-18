@@ -16,18 +16,19 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🚀 Projects Summary
-✅ 프로젝트는 소개 아래의 pinned 에서도 확인하실 수 있습니다!
+✅ 프로젝트는 소개 아래의 **Pinned** 에서도 확인하실 수 있습니다!
 
-01 [올라락 깨구락](https://github.com/kimskyeee/GoUpFrog)
+**01** [올라락 깨구락](https://github.com/kimskyeee/GoUpFrog)
 - 올라락! 깨구락!은 언리얼엔진으로 개발된 멀티플레이 플랫포머 게임입니다.
+- 게임 내 UI와 장애물을 구현했습니다.
 
-02 [Party Banimals](https://github.com/kimskyeee/PartyBanimals)
-- 캐주얼 액션 게임 Party Animals의 **<블랙홀> 맵의 게임 시스템**을 언리얼 엔진으로 구현한 프로젝트입니다.
+**02** [Party Banimals](https://github.com/kimskyeee/PartyBanimals)
+- 캐주얼 액션 게임 Party Animals의 **<블랙홀> 맵의 게임 시스템**을 언리얼 엔진으로 구현한 멀티플레이 프로젝트입니다.
 
-03 [Right 4 Dead](https://github.com/kimskyeee/Right4Dead)
+**03** [Right 4 Dead](https://github.com/kimskyeee/Right4Dead)
 - FPS 게임 Left 4 Dead 2의 **플레이어와 무기 시스템**을 언리얼 엔진으로 구현한 프로젝트입니다.
 
-04 [Local Tank](https://github.com/kimskyeee/LocalTank)
+**04** [Local Tank](https://github.com/kimskyeee/LocalTank)
 - TPS 게임 World of Tanks의 탱크를 **AI로 재구현, 게임 내 전투 관련 UI**를 언리얼 엔진으로 구현한 프로젝트입니다.
 
 
