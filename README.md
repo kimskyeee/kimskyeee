@@ -16,7 +16,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🚀 Projects Summary
-✅ 프로젝트는 소개 아래의 **Pinned** 에서도 확인하실 수 있습니다!
+✅ 프로젝트 내용은 소개 아래의 **Pinned** 에서도 확인하실 수 있습니다!
 
 ### 01 [올라락 깨구락](https://github.com/kimskyeee/GoUpFrog)
 - 올라락! 깨구락!은 언리얼엔진으로 개발된 멀티플레이 플랫포머 게임입니다.
