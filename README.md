@@ -28,7 +28,7 @@
 **03** [Right 4 Dead](https://github.com/kimskyeee/Right4Dead)
 - FPS 게임 Left 4 Dead 2의 **플레이어와 무기 시스템**을 언리얼 엔진으로 구현한 프로젝트입니다.
 
-**04** [Local Tank](https://github.com/kimskyeee/LocalTank)
+**04** [Local Tanks](https://github.com/kimskyeee/LocalTanks)
 - TPS 게임 World of Tanks의 탱크를 **AI로 재구현, 게임 내 전투 관련 UI**를 언리얼 엔진으로 구현한 프로젝트입니다.
 
 
