@@ -17,6 +17,7 @@
 
 ## 🚀 Projects Summary
 ✅ 프로젝트 내용은 소개 아래의 **Pinned** 에서도 확인하실 수 있습니다.
+
 ✅ 프로젝트 제목을 클릭하면 **각 프로젝트의 readme로 이동**합니다.
 
 ### 01 [올라락 깨구락](https://github.com/kimskyeee/GoUpFrog)
