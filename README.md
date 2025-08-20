@@ -16,22 +16,24 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🚀 Projects Summary
-✅ 프로젝트 내용은 소개 아래의 **Pinned** 에서도 확인하실 수 있습니다.
-
+✅ 프로젝트 내용은 소개 아래의 **Pinned** 에서도 확인하실 수 있습니다. <br>
 ✅ 프로젝트 제목을 클릭하면 **각 프로젝트의 readme로 이동**합니다.
 
 ### 01 [올라락 깨구락](https://github.com/kimskyeee/GoUpFrog)
-- 올라락! 깨구락!은 언리얼엔진으로 개발된 멀티플레이 플랫포머 게임입니다.
-- 게임 내 UI와 장애물을 구현했습니다.
+> 올라락! 깨구락!은 언리얼엔진으로 개발된 멀티플레이 플랫포머 게임입니다. <br>
+> 게임 내 UI와 장애물을 구현했습니다.
 
 ### 02 [Party Banimals](https://github.com/kimskyeee/PartyBanimals)
-- 캐주얼 액션 게임 Party Animals의 **<블랙홀> 맵의 게임 시스템**을 언리얼 엔진으로 구현한 멀티플레이 프로젝트입니다.
+> 캐주얼 액션 게임 Party Animals의 **<블랙홀> 맵의 게임 시스템**을 언리얼 엔진으로 구현한 멀티플레이 프로젝트입니다. <br>
+> 게임이 진행되는 <블랙홀> 맵과 중력 컴포넌트, 관전자 모드를 구현했습니다.
 
 ### 03 [Right 4 Dead](https://github.com/kimskyeee/Right4Dead)
-- FPS 게임 Left 4 Dead 2의 **플레이어와 무기 시스템**을 언리얼 엔진으로 구현한 프로젝트입니다.
+> FPS 게임 Left 4 Dead 2의 **플레이어와 무기 시스템**을 언리얼 엔진으로 구현한 프로젝트입니다. <br>
+> 무기 슬롯 시스템과 무기별 공격 로직 등을 구현했습니다.
 
 ### 04 [Local Tanks](https://github.com/kimskyeee/LocalTanks)
-- TPS 게임 World of Tanks의 탱크를 **AI로 재구현, 게임 내 전투 관련 UI**를 언리얼 엔진으로 구현한 프로젝트입니다.
+> TPS 게임 World of Tanks의 탱크를 **AI로 재구현, 게임 내 전투 관련 UI**를 언리얼 엔진으로 구현한 프로젝트입니다. <br>
+> 전투 UI (목적지 인디케이터, 미니맵 등)와 Behavior Tree를 활용한 AI 탱크를 구현했습니다.
 
 
 ## 🏆 Algorithm
