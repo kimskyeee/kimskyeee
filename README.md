@@ -25,6 +25,7 @@
 |02 [Party Banimals](https://github.com/kimskyeee/PartyBanimals)|캐주얼 액션 게임 Party Animals의 **<블랙홀> 맵의 게임 시스템**을 언리얼 엔진으로 구현한 멀티플레이 프로젝트입니다. <br> 게임이 진행되는 <블랙홀> 맵과 **물리를 활용**한 중력 컴포넌트, 관전자 모드를 구현했습니다.|
 |03 [Right 4 Dead](https://github.com/kimskyeee/Right4Dead)|FPS 게임 Left 4 Dead 2의 **플레이어와 무기 시스템**을 언리얼 엔진으로 구현한 프로젝트입니다. <br> 무기 슬롯 시스템과 무기별 공격 로직 등을 구현했습니다.|
 |04 [Local Tanks](https://github.com/kimskyeee/LocalTanks)|TPS 게임 World of Tanks의 탱크를 **AI로 재구현, 게임 내 전투 관련 UI**를 언리얼 엔진으로 구현한 프로젝트입니다. <br> **벡터와 행렬**을 활용해 전투 UI (목적지 인디케이터, 미니맵 등)을 구현했으며, Behavior Tree를 활용한 AI 탱크를 구현했습니다.|
+|05 [목표를 포착했다](https://github.com/kimskyeee/SoldierProject)|FPS게임 오버워치 2의 플레이어 솔저 76를 언리얼 엔진 Blueprint로 구현한 프로젝트입니다. <br> 자동조준과 회복기 스킬 등을 구현했습니다.|
 
 
 ## 🏆 Algorithm
