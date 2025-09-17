@@ -23,7 +23,7 @@
 ✅ 프로젝트 내용은 소개 아래의 **pinned** 에서도 확인하실 수 있습니다. <br>
 ✅ 프로젝트 제목을 클릭하면 **각 프로젝트의 readme로 이동**합니다.
 
-|프로젝트명|설명|
+|🚀 Project|🛠 About|
 |--|--|
 |01 [올라락 깨구락](https://github.com/kimskyeee/GoUpFrog)|올라락! 깨구락!은 언리얼엔진으로 개발된 멀티플레이 플랫포머 게임입니다. <br> 게임 내 UI와 장애물을 구현했습니다|
 |02 [Party Banimals](https://github.com/kimskyeee/PartyBanimals)|캐주얼 액션 게임 Party Animals의 **<블랙홀> 맵 게임 시스템**을 언리얼 엔진으로 구현한 멀티플레이 프로젝트입니다. <br> 게임이 진행되는 <블랙홀> 맵과 **물리를 활용**한 중력 컴포넌트, 관전자 모드를 구현했습니다.|
