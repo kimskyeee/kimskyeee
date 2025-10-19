@@ -11,10 +11,14 @@
 개발이라는 길을 선택한 후에도, 제가 가장 즐거운 순간은 제가 구현한 기능을 플레이어가 경험하는 순간입니다.<br>
 단순히 코드를 작성하는 것이 아니라, 플레이어가 더 몰입하고 즐길 수 있는 **경험을 만드는 개발자**가 되겠습니다!<br>
 
+---
+
 ## 👩‍💻 About Me
 - 읽기 쉽고 직관적인 코드를 지향합니다.
 - **단일 책임 원칙**을 중시하며, 하나의 함수나 클래스는 하나의 책임만 가지도록 구현하려 합니다.
 - 기능 구현뿐만 아니라, **시각적 완성도**를 함께 고민합니다.🔗[프로젝트에서 UI를 기획·디자인했습니다.](https://www.notion.so/kimskye/UI-266b7f13b7a6806b8826d2a995c1261a)
+
+---
 
 ## 🛠 Skills 
 <div align="center">
@@ -35,12 +39,16 @@
 
 </div>
 
+---
+
 ## 🏆 Algorithm
 <p align="center">
   <a href="https://solved.ac/kimskye">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimskye" alt="Solved.ac 프로필"/>
   </a>
 </p>
+
+---
 
 ## 📬 Contact
 <div align="center">
