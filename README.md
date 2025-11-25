@@ -1,4 +1,6 @@
-## 👷🏻‍♀️ 게임 클라이언트 개발자 김하늘입니다!
+**게임 클라이언트 개발자**
+
+<!-- ## 👷🏻‍♀️ 게임 클라이언트 개발자 김하늘입니다!
 > 건축학과에서 **체계적 설계**와 **구조적 직관성**이 무엇보다 중요하다는 것을 몸소 배웠습니다. <br>
 
 건축학과에서 설계를 배우며 가장 크게 깨달은 것은 **디테일의 중요성**이었습니다. <br>
@@ -57,4 +59,4 @@
   </a>
 </div>
 
-<!-- [![Portfolio PDF](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+<!-- [![Portfolio PDF](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing) -->
